@@ -44,7 +44,7 @@
     height: 100%;
     overflow: auto;
     min-height: 500px;
-    background: linear-gradient(135deg, rgb(0, 175, 218), rgb(186, 241, 255));;
+    background: linear-gradient(135deg, rgb(0, 0, 0), rgb(207, 255, 238));;
     z-index: 10000;
    
   }
